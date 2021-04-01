@@ -1,0 +1,43 @@
+.noticia{
+				font-family:"opensans-regular", arial, sans-serif;
+				background-color: #F5F5DC;
+				color: #333;
+				font-size: 16px;
+				padding-right: 10px;
+				text-align: justify;
+				line-height: 24px;
+				width: 100%;
+				float: left;
+			}
+			.noticia h1{
+				color: #c4170c;
+				font-family: "Helvetica Neue", arial, sans-serif;
+				margin: 8px;
+			}
+			.imagem{
+				float: left;
+				width: 200px;
+				padding:10px; 
+			}
+			
+			.menu{
+				background-color: #eee686;
+				font-family: "Trebuchet MS", Helvetica, sans-serif;
+				font-size: 18px;
+				padding: 10px;
+			}
+			a:link{
+				color: #b9c941;
+				text-decoration: none; 
+			}
+			a:visited{
+				color: #458b00;
+			}
+			a:hover{
+				background-color:#A9A9A9;
+				color: #8b4726;
+			}
+			a:active{
+				color: #ff1493;
+			}
+			
